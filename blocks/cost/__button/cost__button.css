@@ -1,0 +1,11 @@
+.cost__button{
+    margin: 0;
+    padding: 0;
+    margin-top: 28px;
+    width: 155px;
+    height: 43px;
+    cursor: pointer;
+    border: none;
+    background: #2194FF;
+    border-radius: 50px;
+}

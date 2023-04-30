@@ -1,0 +1,7 @@
+.advantages__image{
+    background-image: url(../../../images/photo_transp.png);
+    width: 628px;
+    height: 284px;
+    background-size: cover;
+    background-position: center;
+}

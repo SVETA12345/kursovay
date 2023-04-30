@@ -1,0 +1,18 @@
+.cost__paragraf{
+    margin: 0;
+    padding: 0;
+    margin-top: 21px;
+    width: 253px;
+    height: 110px;
+    font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+color: #F1F1F1;
+}
+
+@media (max-width: 1023px){
+    .cost__paragraf{
+      width: 200px;
+    }  
+  }

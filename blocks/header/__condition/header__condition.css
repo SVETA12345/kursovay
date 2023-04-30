@@ -1,0 +1,18 @@
+.header__condition{
+    color:#F1F1F1;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    margin:0
+}
+.header__condition:last-child{
+    margin-left: 34px;
+    
+}
+
+@media (max-width: 1023px){
+    .header__condition:last-child{
+      margin-left: 0px;
+    }  
+  }

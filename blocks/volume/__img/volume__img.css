@@ -1,0 +1,9 @@
+.volume__img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 37px;
+    width: 596px;
+    height: 260px;
+    object-fit: contain; 
+    object-position: center;  
+}

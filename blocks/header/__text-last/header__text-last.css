@@ -1,0 +1,15 @@
+.header__text-last{
+    font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+margin:0;
+margin-top: 30px;
+color: #F1F1F1;
+}
+
+@media (max-width: 1279px){
+    .header__text-last{
+      margin-top: 20px;
+    }  
+  }

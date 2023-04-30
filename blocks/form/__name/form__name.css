@@ -1,0 +1,36 @@
+.form__name{
+    height: 51px;
+    width: 402px;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 0;
+    resize: none;
+    display: flex;
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-transform: uppercase;
+color: black;
+border: 1px solid #DEDEDE;
+border-radius: 10px;
+}
+.form__name:first-child{
+    margin-top: 39px;
+}
+@media (max-width: 767px){
+    .form__name{
+        width: 238px;
+    }
+    .form__name:first-child{
+        margin-top: 40px;
+    }
+}
+input[type="number"]::-webkit-outer-spin-button, 
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}

@@ -1,0 +1,10 @@
+.volume__zakaz{
+    margin:0 auto;
+    width: 295px;
+    height: 87px;
+    background: linear-gradient(to top, #2194ff 30%, #81c0fb 100%, #108cff 100%);
+    display: block;
+    border: none;
+    border-radius: 11px;
+    cursor: pointer;
+}

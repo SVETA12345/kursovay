@@ -1,0 +1,24 @@
+.header__img{
+    position: absolute;
+    right: 0;
+    width: 900px;
+    height: 477px;
+    z-index: -1;
+    top: 160px;
+    object-fit: cover;
+    object-position: left;
+}
+
+@media (max-width: 1279px){
+    .header__img{
+      width: 500px;
+      height: 400px;
+    }  
+  }
+  @media (max-width: 1023px){
+    .header__img{
+      width: 400px;
+      height: 350px;
+      top:185px;
+    }  
+  }

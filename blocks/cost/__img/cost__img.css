@@ -1,0 +1,19 @@
+.cost__img{
+    margin: 0 auto;
+    max-width: 530px;
+    max-height: 246px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 15px;
+}
+
+@media (max-width: 1279px){
+    .cost__img{
+      max-width: 400px;
+    }  
+  }
+  @media (max-width: 1023px){
+    .cost__img{
+      max-width: 300px;
+    }  
+  }

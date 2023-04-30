@@ -1,0 +1,32 @@
+.form__save{
+    display: flex;
+    width: 358px;
+    height: 60px;
+    margin: 0 auto;
+    border: 0;
+    background: linear-gradient(to top, #2194ff 30%, #81c0fb 100%, #108cff 100%);
+  border-radius: 11px;
+  border-color: #2194ff;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: white;
+}
+.form__save:hover{
+    opacity: 0.8;
+}
+
+@media (max-width: 767px){
+    .form__save{
+        width: 238px;
+        height: 46px;
+        margin-top: 2px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+}

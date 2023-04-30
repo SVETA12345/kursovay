@@ -1,0 +1,12 @@
+.advantages__container{
+    margin-top: 20px;
+    max-width: 100%;
+    height: 19px;
+    background-color: #2194FF;
+}
+
+@media (max-width: 1023px){
+    .advantages__container{
+      height: 38px;
+    }  
+  }

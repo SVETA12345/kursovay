@@ -1,0 +1,12 @@
+.cost__gas{
+    width: 542px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1279px){
+    .cost__gas{
+      width: 400px;
+    }  
+  }
+  

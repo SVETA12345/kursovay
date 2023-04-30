@@ -1,0 +1,7 @@
+.volume__container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width:728px;
+    margin-top: 35px;
+}

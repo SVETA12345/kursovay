@@ -1,0 +1,16 @@
+.header__button_type_text{
+    font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+  width: 250px;
+  margin: 0 auto;
+  color: #f1f1f1;
+}
+
+@media (max-width: 1023px){
+    .header__button_type_text{
+      font-size: 18px;
+    }  
+  }
